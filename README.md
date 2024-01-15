@@ -18,10 +18,3 @@ This Python script converts the directory structure of a specified path into a J
 
 ## Visualition for : 
 - https://jsoncrack.com/editor
-
-
-## Example
-For demonstration purposes, the script is set to convert the directory structure of a specified path (replace /your/directory/path with the actual path in converter.py). The resulting JSON file (directory_structure.json) will be created in the project directory.
-
-## Requirements
-Python 3.x
