@@ -10,6 +10,12 @@ This Python script converts the directory structure of a specified path into a J
    git clone https://github.com/your-username/directory-to-json-converter.git
 ```
 
+2. Run the Code
+
+```bash
+   python app.py
+```
+
 ## Visualition for : 
 - https://jsoncrack.com/editor
 
